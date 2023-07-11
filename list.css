@@ -1,0 +1,8 @@
+.list{
+    border:12px double black;
+    background-color: cadetblue;
+    display: flex;
+}
+.section1,.section2{
+    flex: 5;
+}
